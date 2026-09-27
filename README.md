@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="assets/banner.gif" alt="Profile banner" width="100%" />
+</p>
+<p align="center">
   <img src="assets/Guilty Gear XX Background GIF.gif" alt="Profile banner" width="100%" />
 </p>
 
